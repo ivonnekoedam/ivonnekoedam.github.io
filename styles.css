@@ -1,14 +1,21 @@
-body {
+/*body {
   font-family: Georgia, serif;
   background: #fafafa;
   margin: 0;
   color: #333;
+}*/
+
+body {
+  font-family: Arial, sans-serif;
+  background: #333;
+  margin: 0;
+  color: white;
 }
 
 header {
   text-align: center;
   padding: 1rem 0;
-  background: #fff;
+  background: black;
   border-bottom: 1px solid #ccc;
 }
 
@@ -41,6 +48,6 @@ main {
 footer {
   text-align: center;
   padding: 2rem 0;
-  background: #f0f0f0;
+  background: black;
   font-size: 0.9rem;
 }
